@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cart-power-project/static/css/main.25581575.css",
+    "main.js": "/cart-power-project/static/js/main.3676b9f5.js",
+    "static/media/slick.svg": "/cart-power-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/cart-power-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/cart-power-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/userHeader.svg": "/cart-power-project/static/media/userHeader.c297325da0fdf84cdd1836f254e4f0b3.svg",
+    "static/media/mapHeader.svg": "/cart-power-project/static/media/mapHeader.7d2c526acf2fa427fc7775cc6a0fd242.svg",
+    "static/media/shoppingCartHeader.svg": "/cart-power-project/static/media/shoppingCartHeader.7c8b7cdcdf3e1ef365487a213e1bcb82.svg",
+    "static/media/slick.woff": "/cart-power-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/cart-power-project/index.html",
+    "static/media/heart.svg": "/cart-power-project/static/media/heart.3317658a7e5443d9a81aa14bd5e4201e.svg",
+    "static/media/checkboxEmptySelection.svg": "/cart-power-project/static/media/checkboxEmptySelection.953cf743719305a9251ff7e0171b932a.svg",
+    "static/media/checkboxSelection.svg": "/cart-power-project/static/media/checkboxSelection.eb3df1bf6ebd52a2f126fda10c065e03.svg",
+    "static/media/menuFormHeader.svg": "/cart-power-project/static/media/menuFormHeader.24a9d806a144af23c87d0ab6f621c598.svg",
+    "static/media/addPlusSelection.svg": "/cart-power-project/static/media/addPlusSelection.1490efb48d374d5fb151420ba2491071.svg",
+    "main.25581575.css.map": "/cart-power-project/static/css/main.25581575.css.map",
+    "main.3676b9f5.js.map": "/cart-power-project/static/js/main.3676b9f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25581575.css",
+    "static/js/main.3676b9f5.js"
+  ]
+}
