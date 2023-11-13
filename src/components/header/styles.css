@@ -1,0 +1,169 @@
+.header {
+    background: #eee;
+  }
+  .header__container {
+    margin: 0 auto;
+    max-width: 1160px;
+    padding: 0 10px;
+    background: #eee;
+  }
+  
+  .header__inner {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 22px;
+    padding-bottom: 23px;
+  }
+  
+  /* BUTTON 1 ----------------*/
+  .header__button1 {
+    width: 160px;
+    height: 45px;
+    background: #c4c4c4;
+    display: inline-block;
+    margin-right: 40px;
+  }
+  
+  .header__button1:hover {
+    background-color: #00d6ff;
+  }
+  .header__button1-text {
+    color: #000;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1.28px;
+    text-transform: uppercase;
+  }
+  .header__button1-description {
+    color: #000;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.4;
+  }
+  
+  /* BUTTON 2 ---------------*/
+  .header__button2 {
+    width: 130px;
+    height: 45px;
+    border-radius: 6px 0px 0px 6px;
+    background: #000;
+    display: inline-block;
+  }
+  
+  .header__button2:hover {
+    background-color: #00d6ff;
+  }
+  
+  .header__button2-text {
+    color: #fff;
+    font-family: "Roboto", sans sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 10px;
+  }
+  
+  /* FORM -----------------*/
+  .header__form {
+    width: 475px;
+    height: 45px;
+    border-radius: 6px;
+    background: #fff;
+  }
+  
+  .header__input {
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+    padding-left: 15px;
+    font-size: 16px;
+    padding-top: 13px;
+  }
+  
+  
+  /* Header LINKS ---------- */
+  
+  .header__heart {
+    padding-left:10px;
+    padding-right:14px;
+  }
+  
+  
+  .header__link-adress {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.4;
+    padding-right: 21px;
+  }
+  .adress__logo {
+    padding-left: 5px;
+    
+  }
+  
+  .header__link-profile {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 30px;
+  
+  }
+  
+  .profile__logo {
+    padding-left: 5px;
+  }
+  
+  .header__link-bascket {
+    color: #000;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+  
+  }
+  
+  .header__link-basket:hover {
+  background-color: #00d6ff ;
+  
+  }
+  
+  
+  /* ADAPTIVE */
+  @media (max-width: 1200px) {
+    .header {
+      max-width: 100%;
+    }
+  }
+  
+  @media (max-width: 1100px) {
+    .header {
+      max-width: 100%;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .header {
+      max-width: 100%;
+    }
+  }
+  
+  @media (max-width: 488px) {
+    .header {
+      max-width: 100%;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .header {
+      max-width: 100%;
+    }
+  }
+  

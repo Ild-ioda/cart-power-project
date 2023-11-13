@@ -1,0 +1,138 @@
+.footer {
+    background: #000;
+  }
+  
+  .container__footer {
+    min-height: 608px;
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+  .footer__title {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 47px;
+    padding-left: 87px;
+  }
+  .footer__text {
+    color: #00d6ff;
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 119.5%;
+    padding-top: 11px;
+    padding-left: 87px;
+    margin-bottom: 72px;
+  }
+  .footer__form {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer__form-img {
+    padding-right: 10px;
+  }
+  
+  .footer__input {
+    display: inline-block;
+    vertical-align: middle;
+    color: #00d6ff;
+    /* text-align: center; */
+  }
+  
+  .footer__input-text {
+    color: #bebebe;
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    display: inline-block;
+    padding-left: 10px;
+  }
+  .footer__line {
+    height: 1px;
+    stroke-width: 1px;
+    background: #f9f9f9;
+    margin-top: 16px;
+  }
+  
+  .footer__button {
+    width: 201px;
+    height: 61px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  
+  .footer__button-text {
+    color: #172022;
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+  }
+  
+  .footer__button:hover {
+    background-color: #00d6ff;
+  }
+  
+  /* -- */
+  .container {
+    padding: 0 10px;
+  }
+  
+  .footer__menu {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 103px;
+    padding-bottom: 60px;
+  }
+  
+  .footer__menu-item {
+    padding-bottom: 12px;
+  }
+  
+  .push__block {
+    margin-left: auto;
+  }
+  
+  .footer__menu-link {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 140%;
+    text-decoration-line: underline;
+    text-decoration: underline !important;
+  }
+  
+  .politic-conf {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    text-decoration: none !important;
+  }
+  
+  .footer__menu-text {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    opacity: 0.6;
+    padding-top: 60px;
+  }
+  
+  .insta,
+  .facebook,
+  .vk {
+    opacity: 0.6;
+    text-decoration: none !important;
+  }
+  

@@ -1,0 +1,92 @@
+.product {
+    background: #fff;
+  }
+  
+  .product__container {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+  
+  .product__cards {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 24px;
+  }
+  
+  .product__title {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-bottom: 30px;
+  }
+  
+  .product__card-item {
+    width: 216px;
+    height: 431px;
+    border-radius: 6px;
+    background: #e0e0e0;
+  }
+  
+  .product__img-group {
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  .product__cards-title {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 15px;
+    padding-left: 15px;
+  }
+  .product__cards-disprice {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: line-through;
+    opacity: 0.6;
+    padding-left: 15px;
+    padding-bottom: 8px;
+  }
+  
+  .product__cards-price {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    padding-left: 15px;
+  }
+  .product__cards-button {
+    width: 186px;
+    height: 45px;
+    border-radius: 6px;
+    background: #000;
+    margin-left: 15px;
+    position: relative;
+  }
+  
+  .product__cards-button:hover {
+    background-color: #00d6ff;
+  }
+  
+  .product__button-text {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding-right: 52px;
+  }
+  
+  .product__img {
+    padding-top: 15px;
+  }
+  

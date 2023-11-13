@@ -1,0 +1,37 @@
+.container__bedroom {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 10px;
+    background: #c4c4c4;
+    min-height: 300px;
+    border: 1px solid #b0b0b0;
+  }
+  .bedroom__menu {
+    color: rgba(0, 0, 0, 0.6);
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    padding-top: 91px;
+    padding-left: 40px;
+  }
+  .slash {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .bedroom__title {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    padding-left: 40px;
+  }
+  .bedroom__description {
+    color: #000;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 40px;
+  }
+  
